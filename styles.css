@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-#btn{
+#incrementBtn{
 	padding:5px 12px;
 }
-#btn:hover{
+#incrementBtn:hover{
 	background-color:aqua;
 }
