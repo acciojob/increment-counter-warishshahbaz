@@ -3,8 +3,8 @@
 let count = 0;
 
 function handleToIncreament(){
-	let btn = document.getElementByid("btn");
-let text = document.getElementByid(("text")
+	let btn = document.getElementById("btn");
+let text = document.getElementById("text");
 	count++;
 	alert(count);
 	text.innerHTML = count;
