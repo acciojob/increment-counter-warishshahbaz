@@ -6,5 +6,5 @@ let count = 0;
 function handleToIncreament(){
 	count++;
 	window.alert(count);
-	text.innerHtml = count;
+	text.innerHTML = count;
 }
